@@ -1,7 +1,5 @@
 # VueFipe
 
----
-
 ## Projeto de estudo de Vue 3  
 Projeto consumindo a API da tabela FIPE e mostrando informações de carros em cards.  
 Possui input de filtros de marcas, modelo e ano.  
@@ -14,6 +12,7 @@ Ferramentas utilizadas:
 
 Foi utilizado a nova Composition API do Vue 3. Utilizado alguns módulos como ``Computed``, ``onMounted``, ``Ref`` e 
 ``watch``.   
+As imagens dos carros não são as reais, apenas uma fixa :).
 
 
 ## Instalação
